@@ -32,7 +32,7 @@
 
 <body>
 
-<?php include_once '/partials/loader.php'?>
+<?php include_once rootDir . 'partials/loader.php'?>
 
 <!-- Header Top Section Here -->
 <header class="main-header main-header-1">
