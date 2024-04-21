@@ -1,0 +1,28 @@
+project/
+│
+├── config/
+│   ├── database.php        # Configuration for database connection
+│   └── config.php          # General configuration settings
+│
+├── includes/
+│   ├── classes/            # PHP class files
+│   │   ├── User.php        # User class
+│   │   ├── Product.php     # Product class
+│   │   └── ...
+│   │
+│   ├── functions.php       # General functions
+│   └── ...
+│
+├── public/
+│   ├── index.php           # Entry point of the website
+│   ├── css/                # CSS files
+│   ├── js/                 # JavaScript files
+│   └── ...
+│
+├── templates/              # HTML templates
+│   ├── header.php
+│   ├── footer.php
+│   ├── home.php
+│   └── ...
+│
+└── vendor/                 # Third-party dependencies installed via Composer
