@@ -18,7 +18,6 @@ function dbConnect()
     }
 }
 
-$web_url = WEB_URL;
 function support_plugin()
 {
     require_once 'support_plugin.php';
