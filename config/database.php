@@ -14,12 +14,9 @@ function dbConnect()
         return $conn;
     } catch (PDOException $e) {
         echo "Connection failed: " . $e->getMessage();
+        die();
     }
 }
-
-define("WEB_TITLE", "Serenity Harbor Bank"); // Change Bank Name
-define("WEB_URL", "https://dashboard.serenityharbor.online"); // Change No "/" Ending splash
-define("WEB_EMAIL", "contact@serenityharbor.online"); // Change Your Website Email
 
 $web_url = WEB_URL;
 function support_plugin()
