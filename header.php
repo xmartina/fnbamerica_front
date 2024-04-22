@@ -106,10 +106,10 @@
                 <div class="top-header-items">
                     <ul class="contact-list">
                         <li>
-                            <i class="far fa-envelope"></i><?$site_email?>
+                            <i class="far fa-envelope"></i><?=$site_email?>
                         </li>
                         <li>
-                            <i class="far fa-map-marker-alt"></i> <?$site_address?>
+                            <i class="far fa-map-marker-alt"></i> <?=$site_address?>
                         </li>
                     </ul>
                     <div class="header-right">
