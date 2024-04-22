@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="modinatheme">
+    <meta name="author" content="<?=$site_name?>">
     <!-- Page title -->
-    <title>Finland - Multi-Purpose HTML5 Template</title>
+    <title><?=$site_name?> - <?=$site_des?></title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/img/favicon/favicon.png">
     <!-- Bootstrap min.css -->
@@ -40,23 +40,32 @@
                     <span data-text-preloader="F" class="letters-loading">
                     F
                     </span>
-            <span data-text-preloader="I" class="letters-loading">
-                    I
-                    </span>
             <span data-text-preloader="N" class="letters-loading">
                     N
                     </span>
-            <span data-text-preloader="L" class="letters-loading">
-                    L
+            <span data-text-preloader="B" class="letters-loading">
+                    B
                     </span>
             <span data-text-preloader="A" class="letters-loading">
                     A
                     </span>
-            <span data-text-preloader="N" class="letters-loading">
-                    N
+            <span data-text-preloader="M" class="letters-loading">
+                    M
                     </span>
-            <span data-text-preloader="D" class="letters-loading">
-                    D
+            <span data-text-preloader="E" class="letters-loading">
+                    E
+                    </span>
+            <span data-text-preloader="R" class="letters-loading">
+                    R
+                    </span>
+            <span data-text-preloader="I" class="letters-loading">
+                    I
+                    </span>
+            <span data-text-preloader="C" class="letters-loading">
+                    C
+                    </span>
+            <span data-text-preloader="A" class="letters-loading">
+                    A
                     </span>
         </div>
         <p class="text-center">Loading</p>
@@ -82,12 +91,12 @@
 <!-- Header Top Section Here -->
 <header class="main-header main-header-1">
     <div class="main-logo">
-        <a href="index.html">
+        <a href="/">
             <img src="assets/img/logo/logo.png" alt="logo-image">
         </a>
     </div>
     <div class="main-button">
-        <a href="contact.html" class="theme-btn header-btn">
+        <a href="/contact" class="theme-btn header-btn">
             Free Consulting
         </a>
     </div>
@@ -97,10 +106,10 @@
                 <div class="top-header-items">
                     <ul class="contact-list">
                         <li>
-                            <i class="far fa-envelope"></i>infofinland@gmail.com
+                            <i class="far fa-envelope"></i><?$site_email?>
                         </li>
                         <li>
-                            <i class="far fa-map-marker-alt"></i> 55 Main Street,2nd block, New York
+                            <i class="far fa-map-marker-alt"></i> <?$site_address?>
                         </li>
                     </ul>
                     <div class="header-right">
@@ -134,26 +143,20 @@
                     <div class="row align-items-center">
                         <div class="col-xl-9 col-lg-9 col-md-6">
                             <div class="logo-1">
-                                <a href="index.html">
+                                <a href="/">
                                     <img src="assets/img/logo/logo.png" alt="logo-img">
                                 </a>
                             </div>
                             <div class="menu">
                                 <div class="sticky-logo">
-                                    <a href="index.html">
+                                    <a href="/">
                                         <img src="assets/img/logo/logo.png" alt="logo-img">
                                     </a>
                                 </div>
                                 <nav id="main-menu" class="main-menu">
                                     <ul>
-                                        <li class="dropdown active">
-                                            <a href="index.html">Home</a>
-                                            <ul>
-                                                <li><a href="index.html">Home Consulting</a></li>
-                                                <li><a href="index-2.html">IT Solutions</a></li>
-                                                <li><a href="index-3.html">Baking</a></li>
-                                                <li><a href="index-4.html">Solar Energy</a></li>
-                                            </ul>
+                                        <li class=" active">
+                                            <a href="/">Home</a>
                                         </li>
                                         <li><a href="about.html">About Us</a></li>
                                         <li><a href="services.html">Service</a></li>
