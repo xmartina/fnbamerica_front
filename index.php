@@ -1348,4 +1348,4 @@ require_once rootDir . 'header.php';
     </div>
 </section>
 
-<?php require_once rootDir . 'header.php'; ?>
+<?php require_once rootDir . 'footer.php'; ?>
