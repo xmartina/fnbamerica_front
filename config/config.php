@@ -10,3 +10,4 @@ $site_st = $stmt->fetch(PDO::FETCH_ASSOC);
 $site_name = $site_st['site_name'];
 $site_des = $site_st['site_description'];
 $site_email = $site_st['site_email'];
+$site_email = $site_st['site_address'];
