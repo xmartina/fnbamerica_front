@@ -177,14 +177,6 @@
                                                 <li><a href="#">Help Center</a></li>
                                             </ul>
                                         </li>
-                                        <li class="dropdown">
-                                            <a href="#">Legal & Compliance</a>
-                                            <ul class="submenu">
-                                                <li><a href="#">Terms of Service</a></li>
-                                                <li><a href="#">Privacy Policy</a></li>
-                                                <li><a href="#">Compliance Regulations</a></li>
-                                            </ul>
-                                        </li>
                                     </ul>
                                 </nav>
                             </div>
