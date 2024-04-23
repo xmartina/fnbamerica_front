@@ -155,29 +155,36 @@
                                 </div>
                                 <nav id="main-menu" class="main-menu">
                                     <ul>
-                                        <li class=" active">
-                                            <a href="/">Home</a>
-                                        </li>
-                                        <li><a href="about.html">About Us</a></li>
-                                        <li><a href="services.html">Service</a></li>
-                                        <li><a href="projects.html">Projects</a></li>
+                                        <li class=" active"><a href="/">Home</a></li>
+                                        <li><a href="about">About Us</a></li>
                                         <li class="dropdown">
-                                            <a href="#">Pages</a>
+                                            <a href="#">Services</a>
                                             <ul class="submenu">
-                                                <li><a href="project-details.html">Project Details</a></li>
-                                                <li><a href="service-details.html">Service Details</a></li>
-                                                <li><a href="team.html">Team</a></li>
-                                                <li><a href="team-details.html">Team Details</a></li>
+                                                <li><a href="#">Online Banking</a></li>
+                                                <li><a href="#">Mobile Banking</a></li>
+                                                <li><a href="#">Foreign Exchange Services</a></li>
+                                                <li><a href="#">Insurance Services</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="#">Accessibility</a></li>
+                                        <li><a href="#">News</a></li>
+                                        <li class="dropdown">
+                                            <a href="#">Support & FAQs</a>
+                                            <ul class="submenu">
+                                                <li><a href="#">Frequently Asked Questions (FAQs)</a></li>
+                                                <li><a href="#">Contact Us</a></li>
+                                                <li><a href="#">Customer Support</a></li>
+                                                <li><a href="#">Help Center</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown">
-                                            <a href="news.html">News</a>
+                                            <a href="#">Legal & Compliance</a>
                                             <ul class="submenu">
-                                                <li><a href="news.html">News</a></li>
-                                                <li><a href="news-details.html">News Details</a></li>
+                                                <li><a href="#">Terms of Service</a></li>
+                                                <li><a href="#">Privacy Policy</a></li>
+                                                <li><a href="#">Compliance Regulations</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.html">Contact</a></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -190,7 +197,7 @@
                                     </div>
                                     <div class="content">
                                         <p>Urgent Call</p>
-                                        <h6>+296 358 700 88</h6>
+                                        <h6>+123 456 789</h6>
                                     </div>
                                 </div>
                                 <div class="header-dots">
@@ -220,7 +227,7 @@
         </div>
         <div class="menu-sidebar-content">
             <div class="menu-sidebar-logo">
-                <a href="index.html">
+                <a href="/">
                     <img src="assets/img/logo/logo.png" alt="logo">
                 </a>
             </div>
@@ -244,7 +251,7 @@
                     </div>
                     <div class="content">
                         <h5>Email Address</h5>
-                        <p>infofinland@gmail.com</p>
+                        <p>contact@fnbamerica.com</p>
                     </div>
                 </div>
                 <div class="contact-info-items d-flex align-items-center">
@@ -262,11 +269,11 @@
                     </div>
                     <div class="content">
                         <h5>Make A Call</h5>
-                        <p>+296 358 700 88</p>
+                        <p>+123 456 789</p>
                     </div>
                 </div>
             </div>
-            <a href="contact.html" class="theme-btn mt-5">
+            <a href="contact" class="theme-btn mt-5">
                 contact us
             </a>
             <ul class="social-icon">
@@ -294,7 +301,7 @@
         <img src="assets/img/logo/footer-logo.png" alt="logo">
     </div>
     <p>
-        Quis autem veumure repreh volu tate velit esse niholestiae conseua veillum dolorem eum fugiat voluta nulla pariatur systems ways
+        Tailored financial solutions, innovation, and dedication ensure excellence. Your financial goals matter most.
     </p>
     <div class="info mt-50">
         <div class="icon__item">
@@ -312,7 +319,7 @@
             </div>
             <div class="content">
                 <p>Email Address</p>
-                <h6>Support@gmail.com</h6>
+                <h6>melbourne.support@fnbamerica.com</h6>
             </div>
         </div>
         <div class="icon__item">
@@ -321,7 +328,7 @@
             </div>
             <div class="content">
                 <p>Make A Call</p>
-                <h6>+000 (123) 456 88</h6>
+                <h6>+123 (345) 457</h6>
             </div>
         </div>
         <div class="icon__item">
