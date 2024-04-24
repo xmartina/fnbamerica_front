@@ -622,62 +622,8 @@ require_once rootDir . 'header.php';
                                 Business Growth
                             </p>
                             <h3>
-                                <a href="project-details.html">
-                                    Business Strategy and Investment
-                                    Planning Growth Consulting
-                                </a>
-                            </h3>
-                            <a href="project-details.html" class="theme-btn-2  mt-3">
-                                Read More<i class="fas fa-chevron-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="single-project-style-1">
-                        <div class="project-image">
-                            <img src="assets/img/project/project2.jpg" alt="project-img">
-                        </div>
-                        <div class="project-content">
-                            <div class="arrow-shape">
-                                <img src="assets/img/project/arrow.png" alt="arrow-img">
-                            </div>
-                            <div class="icon">
-                                <img src="assets/img/project/icon/icon2.svg" alt="icon-img">
-                            </div>
-                            <p>
-                                Marketing Strategy
-                            </p>
-                            <h3>
-                                <a href="project-details.html">
-                                    Product Sailing Marketing Strategy For Improve Business
-                                </a>
-                            </h3>
-                            <a href="project-details.html" class="theme-btn-2  mt-3">
-                                Read More<i class="fas fa-chevron-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="single-project-style-1">
-                        <div class="project-image">
-                            <img src="assets/img/project/project1.jpg" alt="project-img">
-                        </div>
-                        <div class="project-content">
-                            <div class="arrow-shape">
-                                <img src="assets/img/project/arrow.png" alt="arrow-img">
-                            </div>
-                            <div class="icon">
-                                <img src="assets/img/project/icon/icon1.svg" alt="icon-img">
-                            </div>
-                            <p>
-                                Business Growth
-                            </p>
-                            <h3>
-                                <a href="project-details.html">
-                                    Business Strategy and Investment
-                                    Planning Growth Consulting
+                                <a href="#">
+                                    Community Outreach Expansion Program
                                 </a>
                             </h3>
                             <a href="#" class="theme-btn-2  mt-3">
@@ -702,11 +648,63 @@ require_once rootDir . 'header.php';
                                 Marketing Strategy
                             </p>
                             <h3>
-                                <a href="project-details.html">
-                                    Product Sailing Marketing Strategy For Improve Business
+                                <a href="#">
+                                    Skyline Heights Redevelopment
                                 </a>
                             </h3>
-                            <a href="project-details.html" class="theme-btn-2  mt-3">
+                            <a href="#" class="theme-btn-2  mt-3">
+                                Read More<i class="fas fa-chevron-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="single-project-style-1">
+                        <div class="project-image">
+                            <img src="assets/img/project/project1.jpg" alt="project-img">
+                        </div>
+                        <div class="project-content">
+                            <div class="arrow-shape">
+                                <img src="assets/img/project/arrow.png" alt="arrow-img">
+                            </div>
+                            <div class="icon">
+                                <img src="assets/img/project/icon/icon1.svg" alt="icon-img">
+                            </div>
+                            <p>
+                                Business Growth
+                            </p>
+                            <h3>
+                                <a href="#">
+                                    Sustainable Energy Solutions Initiative
+                                </a>
+                            </h3>
+                            <a href="#" class="theme-btn-2  mt-3">
+                                Read More<i class="fas fa-chevron-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="single-project-style-1">
+                        <div class="project-image">
+                            <img src="assets/img/project/project2.jpg" alt="project-img">
+                        </div>
+                        <div class="project-content">
+                            <div class="arrow-shape">
+                                <img src="assets/img/project/arrow.png" alt="arrow-img">
+                            </div>
+                            <div class="icon">
+                                <img src="assets/img/project/icon/icon2.svg" alt="icon-img">
+                            </div>
+                            <p>
+                                Marketing Strategy
+                            </p>
+                            <h3>
+                                <a href="#">
+                                    Digital Banking Platform Enhancement
+                                </a>
+                            </h3>
+                            <a href="#" class="theme-btn-2  mt-3">
                                 Read More<i class="fas fa-chevron-right"></i>
                             </a>
                         </div>
@@ -796,152 +794,6 @@ require_once rootDir . 'header.php';
     </div>
 </section>
 
-<!-- Testimonial Section Here -->
-<section class="testimonial-section fix section-padding">
-    <div class="container">
-        <div class="single-testimonial-style-1">
-            <div class="row justify-content-between">
-                <div class="col-xl-6 col-lg-6">
-                    <div class="section-title-content">
-                                <span class="wow fadeInUp">
-                                Clients Testimonials
-                                </span>
-                        <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                            What Our Customers Say
-                            About Our Services
-                        </h2>
-                    </div>
-                    <div class="swiper testimonial-slide">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="teastimonial-items ralt">
-                                    <div class="quote-img">
-                                        <img src="assets/img/testimonial/quote.png" alt="img">
-                                    </div>
-                                    <div class="testimonial-content">
-                                        <p class="text">
-                                            On the other hand we denounce with see righteous indignation and dislike men who arey
-                                            beguiled and demoralized by leasure moments line desire that they cannot foresee pain and
-                                            and equal blame belongs their duty
-                                        </p>
-                                        <div class="client-info mt-4">
-                                            <div class="image">
-                                                <img src="assets/img/testimonial/client.png" alt="client-img">
-                                            </div>
-                                            <div class="content">
-                                                <h3>
-                                                    James N. Johnson
-                                                </h3>
-                                                <p>
-                                                    CEO & Founder
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="teastimonial-items ralt">
-                                    <div class="quote-img">
-                                        <img src="assets/img/testimonial/quote.png" alt="img">
-                                    </div>
-                                    <div class="testimonial-content">
-                                        <p class="text">
-                                            On the other hand we denounce with see righteous indignation and dislike men who arey
-                                            beguiled and demoralized by leasure moments line desire that they cannot foresee pain and
-                                            and equal blame belongs their duty
-                                        </p>
-                                        <div class="client-info mt-4">
-                                            <div class="image">
-                                                <img src="assets/img/testimonial/client.png" alt="client-img">
-                                            </div>
-                                            <div class="content">
-                                                <h3>
-                                                    James N. Johnson
-                                                </h3>
-                                                <p>
-                                                    CEO & Founder
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="teastimonial-items ralt">
-                                    <div class="quote-img">
-                                        <img src="assets/img/testimonial/quote.png" alt="img">
-                                    </div>
-                                    <div class="testimonial-content">
-                                        <p class="text">
-                                            On the other hand we denounce with see righteous indignation and dislike men who arey
-                                            beguiled and demoralized by leasure moments line desire that they cannot foresee pain and
-                                            and equal blame belongs their duty
-                                        </p>
-                                        <div class="client-info mt-4">
-                                            <div class="image">
-                                                <img src="assets/img/testimonial/client.png" alt="client-img">
-                                            </div>
-                                            <div class="content">
-                                                <h3>
-                                                    James N. Johnson
-                                                </h3>
-                                                <p>
-                                                    CEO & Founder
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="teastimonial-items ralt">
-                                    <div class="quote-img">
-                                        <img src="assets/img/testimonial/quote.png" alt="img">
-                                    </div>
-                                    <div class="testimonial-content">
-                                        <p class="text">
-                                            On the other hand we denounce with see righteous indignation and dislike men who arey
-                                            beguiled and demoralized by leasure moments line desire that they cannot foresee pain and
-                                            and equal blame belongs their duty
-                                        </p>
-                                        <div class="client-info mt-4">
-                                            <div class="image">
-                                                <img src="assets/img/testimonial/client.png" alt="client-img">
-                                            </div>
-                                            <div class="content">
-                                                <h3>
-                                                    James N. Johnson
-                                                </h3>
-                                                <p>
-                                                    CEO & Founder
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-dot ml-100 pt-5">
-                            <div class="dot"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-5 col-lg-5 mt-5 mt-lg-0">
-                    <div class="testimonial-image ralt">
-                        <img src="assets/img/testimonial/testimonial.jpg" alt="testimonial-img">
-                        <div class="arrow-shape wow fadeInUp" data-wow-delay=".3s">
-                            <img src="assets/img/testimonial/arrow-shape.png" alt="shape-img">
-                        </div>
-                        <div class="arrow-shape-2 wow fadeInUp" data-wow-delay=".5s">
-                            <img src="assets/img/testimonial/arrow-shape2.png" alt="shape-img">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
 <!-- News Blog Section Here -->
 <section class="news-section fix ralt section-bg-2 section-padding">
