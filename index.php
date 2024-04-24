@@ -148,8 +148,7 @@ require_once rootDir . 'header.php';
                             </a>
                         </h4>
                         <p>
-                            We are dedicated to helping
-                            businesses unlock ways
+                            Empowering businesses to reach new heights together.
                         </p>
                     </div>
                 </div>
@@ -172,8 +171,7 @@ require_once rootDir . 'header.php';
                             </a>
                         </h4>
                         <p>
-                            We are dedicated to helping
-                            businesses unlock ways
+                            Building strong financial foundations for your success.
                         </p>
                     </div>
                 </div>
@@ -196,8 +194,7 @@ require_once rootDir . 'header.php';
                             </a>
                         </h4>
                         <p>
-                            We are dedicated to helping
-                            businesses unlock ways
+                            Your trusted partner for tailored banking solutions.
                         </p>
                     </div>
                 </div>
@@ -220,8 +217,7 @@ require_once rootDir . 'header.php';
                             </a>
                         </h4>
                         <p>
-                            We are dedicated to helping
-                            businesses unlock ways
+                            Driving innovation to shape your financial future.
                         </p>
                     </div>
                 </div>
@@ -250,18 +246,17 @@ require_once rootDir . 'header.php';
                                     About Company
                                     </span>
                             <h2>
-                                Driving your Business Success
-                                Through Expert Guidance
+                                Welcome to First National Bank of America
                             </h2>
                         </div>
                         <h3>
-                            Unlocking Growth Exploring the Powerhouse Features <br> of Our <a href="about.html">Business Solutions</a>
+                            Unlocking Growth Exploring the Powerhouse Features <br> of Our <a href="about.html">Financial Solutions</a>
                         </h3>
                         <p class="text">
-                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae abillo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                            At First National Bank of America, we're more than just a bank. We're your ally in achieving your financial goals. With a commitment to excellence and personalized service, we offer a wide range of banking solutions designed to meet your needs.
                         </p>
                         <div class="about-info mt-5">
-                            <a href="about.html" class="theme-btn bg-style-2">Learn More Us</a>
+                            <a href="about" class="theme-btn bg-style-2">Learn More Us</a>
                             <div class="customer-img">
                                 <img src="assets/img/about/customer.jpg" alt="customer-img">
                                 <h6>
@@ -296,7 +291,7 @@ require_once rootDir . 'header.php';
                         Service We Provide
                         </span>
                 <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                    Modern Consulting Service to <br>
+                    Modern Banking Service to <br>
                     Grow Business
                 </h2>
             </div>
@@ -314,17 +309,16 @@ require_once rootDir . 'header.php';
                                     </div>
                                     <div class="service-title">
                                         <h3>
-                                            <a href="service-details.html">
-                                                Business Strategy
+                                            <a href="#">
+                                                Financial Planning
                                             </a>
                                         </h3>
                                     </div>
                                 </div>
                                 <p>
-                                    Sed ut perspiciatis unde omnis iste natusey
-                                    error sit voluptatem accusantium
+                                    Tailored strategies for secure financial futures, personalized to you.
                                 </p>
-                                <a href="service-details.html" class="theme-btn-2  mt-3">
+                                <a href="#" class="theme-btn-2  mt-3">
                                     Read More<i class="fas fa-chevron-right"></i>
                                 </a>
                             </div>
@@ -342,17 +336,16 @@ require_once rootDir . 'header.php';
                                     </div>
                                     <div class="service-title">
                                         <h3>
-                                            <a href="service-details.html">
-                                                Financial Planning
+                                            <a href="#">
+                                                Business Loans
                                             </a>
                                         </h3>
                                     </div>
                                 </div>
                                 <p>
-                                    Sed ut perspiciatis unde omnis iste natusey
-                                    error sit voluptatem accusantium
+                                    Fueling growth with flexible financing options, empowering your business ambitions.
                                 </p>
-                                <a href="service-details.html" class="theme-btn-2  mt-3">
+                                <a href="#" class="theme-btn-2  mt-3">
                                     Read More<i class="fas fa-chevron-right"></i>
                                 </a>
                             </div>
@@ -370,17 +363,16 @@ require_once rootDir . 'header.php';
                                     </div>
                                     <div class="service-title">
                                         <h3>
-                                            <a href="service-details.html">
-                                                Consultancy & Advice
+                                            <a href="#">
+                                                Online Banking
                                             </a>
                                         </h3>
                                     </div>
                                 </div>
                                 <p>
-                                    Sed ut perspiciatis unde omnis iste natusey
-                                    error sit voluptatem accusantium
+                                    24/7 access to manage your finances anytime, anywhere with ease.
                                 </p>
-                                <a href="service-details.html" class="theme-btn-2  mt-3">
+                                <a href="#" class="theme-btn-2  mt-3">
                                     Read More<i class="fas fa-chevron-right"></i>
                                 </a>
                             </div>
@@ -398,17 +390,16 @@ require_once rootDir . 'header.php';
                                     </div>
                                     <div class="service-title">
                                         <h3>
-                                            <a href="service-details.html">
-                                                Business Strategy
+                                            <a href="#">
+                                                Investment Management
                                             </a>
                                         </h3>
                                     </div>
                                 </div>
                                 <p>
-                                    Sed ut perspiciatis unde omnis iste natusey
-                                    error sit voluptatem accusantium
+                                    Maximizing returns through expert guidance and diversified portfolios for wealth growth.
                                 </p>
-                                <a href="service-details.html" class="theme-btn-2  mt-3">
+                                <a href="#" class="theme-btn-2  mt-3">
                                     Read More<i class="fas fa-chevron-right"></i>
                                 </a>
                             </div>
@@ -456,16 +447,16 @@ require_once rootDir . 'header.php';
                             </h2>
                         </div>
                         <p>
-                            At vero eos et accusamus et iusto odio dignissimos ducimus blanditiis praesentium voluptatum deleniti atque corrupti quos dol quas molestias excepturi sint occaecati cupiditate non provident, similique
+                            At First National Bank of America, we stand out for our unwavering commitment to our customers. Here's why you should choose us
                         </p>
                         <div class="circle-progress-bar-wrapper d-flex">
                             <div class="single-circle-bar">
                                 <div class="circle-bar" data-percent="65" data-duration="1000">
                                 </div>
                                 <div class="content">
-                                    <h5>Business Strategy</h5>
+                                    <h5>Trusted Expertise</h5>
                                     <p class="mt-3">
-                                        We denounce with righteous indignation and likes
+                                        With years of experience in the banking industry, we provide knowledgeable guidance to help you navigate your financial journey.
                                     </p>
                                 </div>
                             </div>
@@ -473,9 +464,9 @@ require_once rootDir . 'header.php';
                                 <div class="circle-bar" data-percent="78" data-duration="1000">
                                 </div>
                                 <div class="content">
-                                    <h5>Financial Planning</h5>
+                                    <h5>Personalized Service</h5>
                                     <p class="mt-3">
-                                        We denounce with righteous indignation and likes
+                                        We understand that every customer is unique. That's why we offer tailored solutions to meet your specific needs and goals.
                                     </p>
                                 </div>
                             </div>
