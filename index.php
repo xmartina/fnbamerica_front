@@ -809,8 +809,7 @@ require_once rootDir . 'header.php';
                     Latest News & Blog
                     </span>
             <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                Get Every Consulting News Read
-                Article & Blog
+                Get Every Business News & Blog
             </h2>
         </div>
         <div class="row">
@@ -819,13 +818,13 @@ require_once rootDir . 'header.php';
                     <div class="news-image">
                         <img src="assets/img/news/news1.jpg" alt="news-img">
                         <div class="post-cat">
-                            <a href="news-details.html" class="cat-name">Consulting</a>
+                            <a href="#" class="cat-name">Consulting</a>
                         </div>
                     </div>
                     <div class="news-content">
                         <div class="author-item mb-3">
                             <ul>
-                                <li><i class="fal fa-calendar-alt"></i>Nov 25, 2024</li>
+                                <li><i class="fal fa-calendar-alt"></i>Jan 25, 2024</li>
                             </ul>
                             <div class="post-author d-flex align-items-center">
                                 <img src="assets/img/news/author.jpg" alt="author-img">
@@ -833,16 +832,14 @@ require_once rootDir . 'header.php';
                             </div>
                         </div>
                         <h3>
-                            <a href="news-details.html">
-                                Voice Skills For Assistant And
-                                Amazon Alexa Business
+                            <a href="#">
+                                Navigating Market Volatility: Strategies for Stability
                             </a>
                         </h3>
                         <p>
-                            Praesentium voluptatum deleniti atque
-                            corrupti quos dol quas molestias
+                            Explore actionable insights on how businesses can adapt and thrive amidst market fluctuations, ensuring stability and growth in uncertain times.
                         </p>
-                        <a href="news-details.html" class="theme-btn-2  mt-3">
+                        <a href="#" class="theme-btn-2  mt-3">
                             Read More<i class="fas fa-chevron-right"></i>
                         </a>
                     </div>
@@ -853,13 +850,13 @@ require_once rootDir . 'header.php';
                     <div class="news-image">
                         <img src="assets/img/news/news2.jpg" alt="news-img">
                         <div class="post-cat">
-                            <a href="news-details.html" class="cat-name">Consulting</a>
+                            <a href="#" class="cat-name">Consulting</a>
                         </div>
                     </div>
                     <div class="news-content">
                         <div class="author-item mb-3">
                             <ul>
-                                <li><i class="fal fa-calendar-alt"></i>Nov 25, 2024</li>
+                                <li><i class="fal fa-calendar-alt"></i>Mar 1, 2024</li>
                             </ul>
                             <div class="post-author d-flex align-items-center">
                                 <img src="assets/img/news/author.jpg" alt="author-img">
@@ -867,15 +864,14 @@ require_once rootDir . 'header.php';
                             </div>
                         </div>
                         <h3>
-                            <a href="news-details.html">
-                                Market Masters Consultants Navigating Growth a Success
+                            <a href="#">
+                                Unlocking the Power of Data: Leveraging Analytics for Business Success
                             </a>
                         </h3>
                         <p>
-                            Praesentium voluptatum deleniti atque
-                            corrupti quos dol quas molestias
+                            Delve into the world of data analytics and learn how harnessing data-driven insights can drive informed decision-making and propel business growth in today's digital landscape.
                         </p>
-                        <a href="news-details.html" class="theme-btn-2  mt-3">
+                        <a href="#" class="theme-btn-2  mt-3">
                             Read More<i class="fas fa-chevron-right"></i>
                         </a>
                     </div>
@@ -886,13 +882,13 @@ require_once rootDir . 'header.php';
                     <div class="news-image">
                         <img src="assets/img/news/news3.jpg" alt="news-img">
                         <div class="post-cat">
-                            <a href="news-details.html" class="cat-name">Consulting</a>
+                            <a href="#" class="cat-name">Consulting</a>
                         </div>
                     </div>
                     <div class="news-content">
                         <div class="author-item mb-3">
                             <ul>
-                                <li><i class="fal fa-calendar-alt"></i>Nov 25, 2024</li>
+                                <li><i class="fal fa-calendar-alt"></i>Feb 18, 2024</li>
                             </ul>
                             <div class="post-author d-flex align-items-center">
                                 <img src="assets/img/news/author.jpg" alt="author-img">
@@ -900,15 +896,14 @@ require_once rootDir . 'header.php';
                             </div>
                         </div>
                         <h3>
-                            <a href="news-details.html">
-                                Pro Fusion Partners Amplifying Your Business Potential
+                            <a href="#">
+                                Building Resilience: Strategies for Business Continuity
                             </a>
                         </h3>
                         <p>
-                            Praesentium voluptatum deleniti atque
-                            corrupti quos dol quas molestias
+                            Discover practical tips and best practices for fortifying your business against unforeseen challenges, ensuring resilience and continuity in the face of adversity.
                         </p>
-                        <a href="news-details.html" class="theme-btn-2  mt-3">
+                        <a href="#" class="theme-btn-2  mt-3">
                             Read More<i class="fas fa-chevron-right"></i>
                         </a>
                     </div>
@@ -996,7 +991,7 @@ require_once rootDir . 'header.php';
                                 Email Us
                             </p>
                             <h3>
-                                Support@gmail.com
+                                <?=$site_email;?>
                             </h3>
                         </div>
                     </div>
@@ -1007,7 +1002,7 @@ require_once rootDir . 'header.php';
                                 Call Us
                             </p>
                             <h3>
-                                +000 (123) 456 88
+                                <?=$site_number;?>
                             </h3>
                         </div>
                     </div>
@@ -1018,7 +1013,7 @@ require_once rootDir . 'header.php';
                                 Location
                             </p>
                             <h3>
-                                55 Main Street, USA
+                                <?=$site_address;?>
                             </h3>
                         </div>
                     </div>

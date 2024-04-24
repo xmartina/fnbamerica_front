@@ -21,7 +21,7 @@
                         Consulting Agency
                     </h2>
                 </div>
-                <a href="contact.html" class="theme-btn bg-style-3">
+                <a href="contact" class="theme-btn bg-style-3">
                     Free Consulting
                 </a>
             </div>
@@ -31,14 +31,12 @@
                 <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".2s">
                     <div class="single-footer-widget">
                         <div class="widget-head">
-                            <a href="index.html">
+                            <a href="/">
                                 <img src="assets/img/logo/footer-logo.png" alt="footer-logo">
                             </a>
                         </div>
                         <p>
-                            Quis autem veumure repres voluptate
-                            velit esse nihile molestiae consequatur
-                            dolorem eum fugiat voluptas
+                            At First National Bank of America, we're committed to your financial success. With personalized service and innovative solutions, we're here to support you every step of the way on your financial journey.
                         </p>
                         <ul class="social-icon">
                             <li>
@@ -65,31 +63,31 @@
                         </div>
                         <ul class="list">
                             <li>
-                                <a href="index.html">
+                                <a href="#">
                                     <i class="fas fa-chevron-double-right"></i>
                                     Home
                                 </a>
                             </li>
                             <li>
-                                <a href="about.html">
+                                <a href="#">
                                     <i class="fas fa-chevron-double-right"></i>
                                     About
                                 </a>
                             </li>
                             <li>
-                                <a href="service-details.html">
+                                <a href="#">
                                     <i class="fas fa-chevron-double-right"></i>
                                     Services
                                 </a>
                             </li>
                             <li>
-                                <a href="team-details.html">
+                                <a href="#">
                                     <i class="fas fa-chevron-double-right"></i>
                                     Team
                                 </a>
                             </li>
                             <li>
-                                <a href="news-details.html">
+                                <a href="#">
                                     <i class="fas fa-chevron-double-right"></i>
                                     Latest News
                                 </a>
@@ -111,11 +109,11 @@
                             <div class="post-content">
                                 <ul>
                                     <li>
-                                        <i class="fal fa-calendar-alt"></i>Nov 25, 2024
+                                        <i class="fal fa-calendar-alt"></i>Apr 13, 2024
                                     </li>
                                 </ul>
                                 <h6>
-                                    <a href="news-details.html">
+                                    <a href="#">
                                         Voice Skill To Assistant <br>
                                         Amazon Business
                                     </a>
@@ -129,13 +127,12 @@
                             <div class="post-content">
                                 <ul>
                                     <li>
-                                        <i class="fal fa-calendar-alt"></i>Nov 25, 2024
+                                        <i class="fal fa-calendar-alt"></i>Jan 17, 2024
                                     </li>
                                 </ul>
                                 <h6>
-                                    <a href="news-details.html">
-                                        Voice Skill To Assistant <br>
-                                        Amazon Business
+                                    <a href="#">
+                                        Digital Banking Platform Enhancement
                                     </a>
                                 </h6>
                             </div>
@@ -151,8 +148,7 @@
                         </div>
                         <div class="footer-single-newsletter">
                             <p>
-                                Ut enim ad minima nostrum exercitate
-                                ullam corporis suscipit laboriosa
+                                Stay informed with our latest newsletter! Discover exclusive updates to help you make the most of your banking experience.
                             </p>
                             <div class="footer-newsletter">
                                 <input type="email" name="EMAIL" placeholder="Email Address" required="">
@@ -172,26 +168,26 @@
         <div class="container">
             <div class="footer-wrapper d-flex align-items-center justify-content-between">
                 <p class="wow fadeInLeft" data-wow-delay=".3s">
-                    <a href="index.html">Finland</a> - Copyright 2024. All rights reserved.
+                    <a href="/"><?=$site_name?></a> - Copyright 2024. All rights reserved.
                 </p>
                 <ul class="footer-menu wow fadeInRight" data-wow-delay=".4s">
                     <li>
-                        <a href="service-details.html">
+                        <a href="#">
                             Services
                         </a>
                     </li>
                     <li>
-                        <a href="about.html">
+                        <a href="#">
                             About
                         </a>
                     </li>
                     <li>
-                        <a href="faq.html">
+                        <a href="#">
                             Faqs
                         </a>
                     </li>
                     <li>
-                        <a href="contact.html">
+                        <a href="contact">
                             Contact
                         </a>
                     </li>
