@@ -53,7 +53,7 @@ require_once rootDir . 'header.php';
                             <div class="col-xl-6 col-lg-6">
                                 <div class="hero-content">
                                     <h1 data-animation="fadeInUp" data-delay="1.3s">
-                                        Trusted Partners in Your Financial Journey
+                                        Empowering Your Financial Future
                                     </h1>
                                     <h3 data-animation="fadeInUp" data-delay="1.5s">
                                         25+ Years Of Experience In Consulting Services
