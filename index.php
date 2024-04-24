@@ -250,7 +250,7 @@ require_once rootDir . 'header.php';
                             </h2>
                         </div>
                         <h3>
-                            Unlocking Growth Exploring the Powerhouse Features <br> of Our <a href="about.html">Financial Solutions</a>
+                            Unlocking Growth Exploring the Powerhouse Features <br> of Our <a href="#">Financial Solutions</a>
                         </h3>
                         <p class="text">
                             At First National Bank of America, we're more than just a bank. We're your ally in achieving your financial goals. With a commitment to excellence and personalized service, we offer a wide range of banking solutions designed to meet your needs.
@@ -489,155 +489,6 @@ require_once rootDir . 'header.php';
     </div>
 </section>
 
-<!-- Team Section Here -->
-<section class="team-section section-padding fix">
-    <div class="container">
-        <div class="section-title">
-                    <span class="wow fadeInUp">
-                    Team Member
-                    </span>
-            <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                We Have More Then 55+ Experience <br>
-                Dedicated Team Member
-            </h2>
-        </div>
-        <div class="row">
-            <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".2s">
-                <div class="single-team-style-1">
-                    <div class="team-image ralt">
-                        <img src="assets/img/team/team1.jpg" alt="team-img">
-                        <div class="icon-list">
-                            <ul>
-                                <li>
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-content center">
-                        <h3>
-                            <a href="team-details.html">
-                                Mark D. Brock
-                            </a>
-                        </h3>
-                        <p>
-                            CEO & Founder
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".4s">
-                <div class="single-team-style-1 single-team-active-1">
-                    <div class="team-image ralt">
-                        <img src="assets/img/team/team2.jpg" alt="team-img">
-                        <div class="icon-list">
-                            <ul>
-                                <li>
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-content center">
-                        <h3>
-                            <a href="team-details.html">
-                                Victor S. Hanson
-                            </a>
-                        </h3>
-                        <p>
-                            Senior Manager
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".6s">
-                <div class="single-team-style-1">
-                    <div class="team-image ralt">
-                        <img src="assets/img/team/team3.jpg" alt="team-img">
-                        <div class="icon-list">
-                            <ul>
-                                <li>
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-content center">
-                        <h3>
-                            <a href="team-details.html">
-                                Carl R. Downing
-                            </a>
-                        </h3>
-                        <p>
-                            Junior Consultant
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".8s">
-                <div class="single-team-style-1">
-                    <div class="team-image ralt">
-                        <img src="assets/img/team/team4.jpg" alt="team-img">
-                        <div class="icon-list">
-                            <ul>
-                                <li>
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-content center">
-                        <h3>
-                            <a href="team-details.html">
-                                Donald D. Head
-                            </a>
-                        </h3>
-                        <p>
-                            Marketing Manager
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
 <!-- Why Choose Us Section Here -->
 <section class="choose-us-wrapper-2 fix section-padding">
     <div class="circle-shape-2 float-bob-y">
@@ -653,16 +504,14 @@ require_once rootDir . 'header.php';
             <div class="col-xl-6 col-lg-7 mt-5 mt-lg-0">
                 <div class="choose-us-content">
                     <div class="section-title-content">
-                                <span class="wow fadeInUp">
-                                Get Know Why Us
-                                </span>
+                                <span class="wow fadeInUp">Why Us</span>
                         <h2 class="wow fadeInUp" data-wow-delay=".2s">
                             Transforming Vision into
                             Business Success
                         </h2>
                     </div>
                     <p class="wow fadeInUp" data-wow-delay=".4s">
-                        At vero eos et accusamus et iusto dignissimos ducimus blanditiis praesentium voluptatum deleniti atque corrupti quos dol quas molestias
+                        Empowering Entrepreneurs Every Step of the Way
                     </p>
                     <div class="row g-4 mt-4">
                         <div class="col-lg-6 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".2s">
@@ -672,11 +521,10 @@ require_once rootDir . 'header.php';
                                 </div>
                                 <div class="content">
                                     <h4>
-                                        Dedicated Team Member
+                                        Strategic Financial Guidance
                                     </h4>
                                     <p>
-                                        Praesentium voluptatum deleniti atque
-                                        corrupti quos dol quas molestias
+                                        Our seasoned advisors offer strategic insights to align your vision with financial success.
                                     </p>
                                 </div>
                             </div>
@@ -688,11 +536,10 @@ require_once rootDir . 'header.php';
                                 </div>
                                 <div class="content">
                                     <h4>
-                                        Quality Business Services
+                                        Tailored Funding Solutions
                                     </h4>
                                     <p>
-                                        Praesentium voluptatum deleniti atque
-                                        corrupti quos dol quas molestias
+                                        Unlock growth potential with customized financing options tailored to your business goals.
                                     </p>
                                 </div>
                             </div>
@@ -704,11 +551,10 @@ require_once rootDir . 'header.php';
                                 </div>
                                 <div class="content">
                                     <h4>
-                                        Best Innovation Ideas
+                                        Innovative Digital Tools
                                     </h4>
                                     <p>
-                                        Praesentium voluptatum deleniti atque
-                                        corrupti quos dol quas molestias
+                                        Harness cutting-edge technology to streamline operations and drive business efficiency.
                                     </p>
                                 </div>
                             </div>
@@ -720,11 +566,10 @@ require_once rootDir . 'header.php';
                                 </div>
                                 <div class="content">
                                     <h4>
-                                        Investment & Business Plan
+                                        Community Partnership Initiatives
                                     </h4>
                                     <p>
-                                        Praesentium voluptatum deleniti atque
-                                        corrupti quos dol quas molestias
+                                        oin us in community-focused endeavors to expand networks and foster business connections.
                                     </p>
                                 </div>
                             </div>
