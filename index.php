@@ -20,18 +20,17 @@ require_once rootDir . 'header.php';
                             <div class="col-xl-7 col-lg-7">
                                 <div class="hero-content">
                                     <h1 data-animation="fadeInUp" data-delay="1.3s">
-                                        Empowering Your Business Goal
-                                        and Success Us
+                                        Effortless Financial Management
                                     </h1>
                                     <h3 data-animation="fadeInUp" data-delay="1.5s">
                                         25+ Years Of Experience In Consulting Services
                                     </h3>
                                     <div class="hero-button">
-                                        <a href="contact.html" data-animation="fadeInUp" data-delay="1.7s" class="theme-btn">
-                                            Free Consulting
+                                        <a href="<?=$login_url?>" data-animation="fadeInUp" data-delay="1.7s" class="theme-btn">
+                                            Login to My Account
                                         </a>
                                         <div class="d-sm-inline video-play-btn"  data-animation="fadeInUp" data-delay="1.7s">
-                                            <a href="https://www.youtube.com/watch?v=Cn4G2lZ_g2I" class="video-popup play-video" tabindex="-1"><i class="fas fa-play"></i></a>
+                                            <a href="#" class="video-popup play-video" tabindex="-1"><i class="fas fa-play"></i></a>
                                             <span class="ms-3 d-line">Watch Video</span>
                                         </div>
                                     </div>
@@ -54,18 +53,17 @@ require_once rootDir . 'header.php';
                             <div class="col-xl-6 col-lg-6">
                                 <div class="hero-content">
                                     <h1 data-animation="fadeInUp" data-delay="1.3s">
-                                        Empowering Your Business Goal
-                                        and Success Us
+                                        Trusted Partners in Your Financial Journey
                                     </h1>
                                     <h3 data-animation="fadeInUp" data-delay="1.5s">
                                         25+ Years Of Experience In Consulting Services
                                     </h3>
                                     <div class="hero-button">
-                                        <a href="contact.html" data-animation="fadeInUp" data-delay="1.7s" class="theme-btn">
-                                            Free Consulting
+                                        <a href="<?=$signup_url?>" data-animation="fadeInUp" data-delay="1.7s" class="theme-btn">
+                                            Create an Account
                                         </a>
                                         <div class="d-sm-inline video-play-btn"  data-animation="fadeInUp" data-delay="1.7s">
-                                            <a href="https://www.youtube.com/watch?v=Cn4G2lZ_g2I" class="video-popup play-video" tabindex="-1"><i class="fas fa-play"></i></a>
+                                            <a href="#" class="video-popup play-video" tabindex="-1"><i class="fas fa-play"></i></a>
                                             <span class="ms-3 d-line">Watch Video</span>
                                         </div>
                                     </div>
@@ -88,18 +86,17 @@ require_once rootDir . 'header.php';
                             <div class="col-xl-6 col-lg-6">
                                 <div class="hero-content">
                                     <h1 data-animation="fadeInUp" data-delay="1.3s">
-                                        Empowering Your Business Goal
-                                        and Success Us
+                                        Secure Banking Solutions
                                     </h1>
                                     <h3 data-animation="fadeInUp" data-delay="1.5s">
                                         25+ Years Of Experience In Consulting Services
                                     </h3>
                                     <div class="hero-button">
-                                        <a href="contact.html" data-animation="fadeInUp" data-delay="1.7s" class="theme-btn">
-                                            Free Consulting
+                                        <a href="<?=$login_url?>" data-animation="fadeInUp" data-delay="1.7s" class="theme-btn">
+                                            Login to My Account
                                         </a>
                                         <div class="d-sm-inline video-play-btn"  data-animation="fadeInUp" data-delay="1.7s">
-                                            <a href="https://www.youtube.com/watch?v=Cn4G2lZ_g2I" class="video-popup play-video" tabindex="-1"><i class="fas fa-play"></i></a>
+                                            <a href="#" class="video-popup play-video" tabindex="-1"><i class="fas fa-play"></i></a>
                                             <span class="ms-3 d-line">Watch Video</span>
                                         </div>
                                     </div>
